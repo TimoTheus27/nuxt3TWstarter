@@ -12,7 +12,7 @@ For a good development workflow install & setup following extentions:
 * tailwind
 * postcss language support
 * eslint
-  * [enable lint on save](https://www.digitalocean.com/community/tutorials/workflow-auto-eslinting)
+  * [enable lint on save](https://www.digitalocean.com/community/tutorials/workflow-auto-eslinting#step-4-adding-code-actions-on-save)
 
 
 ## Setup
