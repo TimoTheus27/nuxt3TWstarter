@@ -1,6 +1,6 @@
 # Nuxt 3  + Tailwind + Eslint starter
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+This a nuxt3 +  tailwind + eslint preconfigured starter project.
 
 In order to run this ```node --version``` must be above 14.16
 
@@ -8,10 +8,10 @@ In order to run this ```node --version``` must be above 14.16
 
 For a good development workflow install & setup following extentions:
 
-* vetur
-* tailwind
-* postcss language support
-* eslint
+* [vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+* [tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+* [postcss language support](https://marketplace.visualstudio.com/items?itemName=csstools.postcss)
+* [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
   * [enable lint on save](https://www.digitalocean.com/community/tutorials/workflow-auto-eslinting#step-4-adding-code-actions-on-save)
 
 
@@ -51,3 +51,8 @@ npm run preview
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+
+## References
+
+* [nuxt 3 documentation](https://v3.nuxtjs.org)
+* [tailwindcss documentation](https://tailwindcss.com/docs/utility-first)
