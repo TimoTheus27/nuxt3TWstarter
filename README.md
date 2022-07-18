@@ -8,7 +8,7 @@ In order to run this ```node --version``` must be above 14.16
 
 For a good development workflow install & setup following extentions:
 
-* [vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+* [volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 * [tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 * [postcss language support](https://marketplace.visualstudio.com/items?itemName=csstools.postcss)
 * [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
