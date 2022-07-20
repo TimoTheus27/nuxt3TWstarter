@@ -14,6 +14,8 @@ For a good development workflow install & setup following extentions:
 * [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
   * [enable lint on save](https://www.digitalocean.com/community/tutorials/workflow-auto-eslinting#step-4-adding-code-actions-on-save)
 
+## Intellij
+* vue and tailwind plugins should be enough
 
 ## Setup
 
