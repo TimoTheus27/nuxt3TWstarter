@@ -4,7 +4,9 @@ This a nuxt3 +  tailwind + eslint preconfigured starter project.
 
 In order to run this ```node --version``` must be above 14.16
 
-## VS code 
+## Setup
+
+### VS code 
 
 For a good development workflow install & setup following extentions:
 
@@ -14,10 +16,13 @@ For a good development workflow install & setup following extentions:
 * [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
   * [enable lint on save](https://www.digitalocean.com/community/tutorials/workflow-auto-eslinting#step-4-adding-code-actions-on-save)
 
-## Intellij
+### Intellij
 * vue and tailwind plugins should be enough
 
-## Setup
+### Browser
+* [Install vue devtools for debugging](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)
+
+### Install packages
 
 Make sure to install the dependencies:
 
