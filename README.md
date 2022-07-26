@@ -8,7 +8,7 @@ In order to run this ```node --version``` must be above 14.16
 
 ### VS code 
 
-For a good development workflow install & setup following extentions:
+For a good development workflow install & setup following extensions:
 
 * [volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
   * [enable takeover mode](https://vuejs.org/guide/typescript/overview.html#takeover-mode)
