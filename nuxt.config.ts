@@ -14,6 +14,9 @@ export default defineNuxtConfig({
     }
   },
   css: ['~/assets/styles/tailwind.css'],
+  modules: [
+    './modules/socket.js'
+  ],
   typescript: {
     strict: true,
     typeCheck: true
