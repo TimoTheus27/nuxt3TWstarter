@@ -1,9 +1,12 @@
 import { io } from 'socket.io-client'
 
 export default defineNuxtPlugin(() => {
+  const config = useRuntimeConfig()
   return {
     provide: {
-      socketIOClient: io({ port: 3000 })
+      socketIOClient: io(
+        config.socketIOServerUrl
+      )
     }
   }
 })

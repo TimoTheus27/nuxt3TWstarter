@@ -17,6 +17,11 @@ export default defineNuxtConfig({
   modules: [
     './modules/socket.js'
   ],
+  runtimeConfig: {
+    public: {
+      socketIOServerUrl: process.env.NUXT_ENV_socketIOServerUrl
+    }
+  },
   typescript: {
     strict: true,
     typeCheck: true
