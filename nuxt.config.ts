@@ -15,7 +15,7 @@ export default defineNuxtConfig({
   },
   css: ['~/assets/styles/tailwind.css'],
   modules: [
-    './modules/socket.js'
+    // './modules/socket.js'
   ],
   runtimeConfig: {
     public: {
