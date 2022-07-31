@@ -34,7 +34,7 @@ onMounted(() => {
     <div
       v-for="(event, i) in events"
       :key="i"
-      class=" bg-emerald-400 text-white text-lg w-2 h-2 rounded-full"
+      class=" bg-emerald-400 w-2 h-2 rounded-full"
       :style="getStyles(event)"
     />
     <RouteProperties class="mb-1" />
